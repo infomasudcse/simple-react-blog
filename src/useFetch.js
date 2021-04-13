@@ -5,7 +5,7 @@ const useFetch = (url) =>{
 
   const [ data, setData] = useState(null);
   const [ isPending, setIsPending ] = useState(true);
-  const [error, setError] = useState(null);
+  const [ error, setError] = useState(null);
 
   useEffect(()=>{      
         fetch(url)
