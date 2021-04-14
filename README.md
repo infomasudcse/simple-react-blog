@@ -11,3 +11,13 @@ render component conditionally
 
 Handle error on fetching data
 
+Blog Details
+
+Create blog
+
+Redirect Using History hook
+
+Delete blog
+
+handle NotFound page
+
